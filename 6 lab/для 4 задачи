@@ -1,0 +1,8 @@
+''' это оформление
+plt.title(r'График функции $y(x) = \sin(x) \cdot x^2$', fontsize=14)
+plt.xlabel('x', fontsize=12)
+plt.ylabel('y(x)', fontsize=12)
+plt.grid(True, alpha=0.3)
+plt.legend(fontsize=12)
+plt.xlim(0, 20)
+'''
